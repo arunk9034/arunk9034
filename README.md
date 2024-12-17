@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arunk9034
 - 👀 I’m interested in {code}
-- 🌱 I’m currently learning {js,React,Node}
+- 🌱 I’m currently learning {Js,React,Node, Mongoose, Next, Wordpres, Laravel, API's}
 - 💞️ I’m looking to collaborate on {git}
 - 📫 How to reach me @arunkumarkumar@gmail.com
 
