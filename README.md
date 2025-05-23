@@ -18,11 +18,11 @@ I'm a passionate **Full Stack Developer** and current **Technical Manager**, wit
 - **Ad-Enabled Video Player:** 
   - Built a dynamic video player (Google IMA enabled) that runs on thousands of publisher websites—serving content and ads to massive audiences.
   - This product became the top revenue generator for my company and is still running strong!
-  - Led a dedicated team of 4, continuously enhancing features, optimizing performance, and keeping revenue flowing.
+  - Led a dedicated team, continuously enhancing features, optimizing performance, and keeping revenue flowing.
 - **Next.js + MongoDB CMS:**
   - Architected a fully dynamic CMS with AdSense for Search integration.
   - This is now the company’s primary revenue engine after the video player.
-  - Managed a second team of 4, guiding development and innovation.
+  - Managed a second team, guiding development and innovation.
 - **Unified Ad Dashboard:**
   - Developed a comprehensive dashboard to unify AdWords and AdSense data—making campaign spend and revenue tracking a breeze, using the Google Ads API.
 
